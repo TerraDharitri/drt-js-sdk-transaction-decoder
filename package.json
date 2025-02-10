@@ -1,6 +1,6 @@
 {
   "name": "@terradharitri/sdk-transaction-decoder",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Transaction metadata decoder",
   "main": "lib/transaction.decoder.js",
   "types": "lib/transaction.decoder.d.ts",
